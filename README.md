@@ -42,9 +42,9 @@ for root, dirs, files in os.walk("/Users/wangziqiao/workspace/cs_study/test"):
 
 
 ## 第三课 更系统的list
-今天的任务是把`aaa，bbb,和ccc`更系统化-而不是一行-地列出来，
+今天的任务是把`test目录`下的所有文件更系统化-而不是一行-地列出来，
 
-还需要列出它的大文件名, 文件大小, "和创建时间。
+还需要列出它的大文件名, 文件大小, 和创建时间。
 
 首先我们用第一个`for`循环来找出`aaa,bbb,和ccc`并将它们归入`files`。
 
