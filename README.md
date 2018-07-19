@@ -90,5 +90,5 @@ fromtimestamp(fstat.st_birthtime)
 
 在这里就是指除了双数之外的书，也就只能是质数。
 
-现在`lstdir4.py`就好解释了，一开始只不过是用了代数的方法，然后加了一些词。
+现在`lstdir4.py`就好解释了，一开始只不过是用了代数的方法，然后加了一些辅助作用的词，如`"Prime numbers between",min,"and"max,"are:"`。
 
