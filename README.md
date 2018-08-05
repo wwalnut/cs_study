@@ -116,3 +116,13 @@ fromtimestamp(fstat.st_birthtime)
 
 嗒哒！大功告成。
 
+
+***PS:***
+
+这里介绍一下怎么在github的markdown里插入公式。访问在线公式生成器 https://www.codecogs.com/latex/eqneditor.php ，调整一下选项（我就用了svg格式），然后输入你的公式，生成的 HTML 代码里就包含了图片网址，直接在github的markdown里使用图片插入语法调用就好了，例如 x乘y等于z：
+```
+![x \cdot y = z](https://latex.codecogs.com/svg.latex?x&space;\cdot&space;y&space;=&space;z)
+```
+
+
+
