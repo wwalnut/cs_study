@@ -104,7 +104,7 @@ fromtimestamp(fstat.st_birthtime)
 
 这是为什么呢？
 
-让我来举个例子：![x \cdot y = z](https://latex.codecogs.com/gif.latex?x&space;\cdot&space;y&space;=&space;z) （x乘y等于z），如果x大于 ![\sqrt{z}](https://latex.codecogs.com/gif.latex?\sqrt{z}) （z的算数平方根），那么y必定小于 ![\sqrt{z}](https://latex.codecogs.com/gif.latex?\sqrt{z}) ，那是不是x就不用再去求了呀？！
+让我来举个例子：![x \cdot y = z](https://latex.codecogs.com/svg.latex?x&space;\cdot&space;y&space;=&space;z) （x乘y等于z），如果x大于 ![\sqrt{z}](https://latex.codecogs.com/svg.latex?\sqrt{z}) （z的算数平方根），那么y必定小于 ![\sqrt{z}](https://latex.codecogs.com/svg.latex?\sqrt{z}) ，那是不是x就不用再去求了呀？！
 
 筛完了之后被筛过的数字都没有出现在列表里。我们就用一个循环把留下的质数打印出来（也可以输出到文件里）。
 
