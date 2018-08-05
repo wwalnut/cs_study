@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import time
 
-max = 100
+st = time.time()
+max = 10000000
 min = 1
 print("Prime numbers between %s and %s are: ", min, max)
 
@@ -14,3 +16,5 @@ for num in range(min, max + 1):
 				break
 		if isodd:
 			print(num)
+et = time.time()
+print "Time cost: ",(et - st)," second."
