@@ -171,4 +171,4 @@ List 和字符串的其中一个区别就是，list 是可以修改的。
 
 最后我们就学习到了基础的语法和编程
 
-https://screenshotscdn.firefoxusercontent.com/images/4e8a6020-3254-439b-9a3a-0fd12dd5ed19.png
+(https://screenshotscdn.firefoxusercontent.com/images/4e8a6020-3254-439b-9a3a-0fd12dd5ed19.png)
