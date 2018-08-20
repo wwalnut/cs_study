@@ -161,7 +161,7 @@ https://docs.python.org/3/tutorial/interpreter.html
 
 如果直接把'dosen't'输入进电脑里，它就不知到怎么相应，因为电脑会把 t 前面的撇点也看成 ' ' 。
 
-所以这里就用到了 / ，/的用处就是让电脑区分开两种情况的符号。
+所以这里就用到了 \ ，\的用处就是让电脑区分开两种情况的符号。
 
 还有一点，字符串是不可修改的，所以不能修改已有的数据。
 
@@ -170,5 +170,4 @@ https://docs.python.org/3/tutorial/interpreter.html
 List 和字符串的其中一个区别就是，list 是可以修改的。
 
 最后我们就学习到了基础的语法和编程
-
-(https://screenshotscdn.firefoxusercontent.com/images/4e8a6020-3254-439b-9a3a-0fd12dd5ed19.png)
+![the example of basic indentation and programming](https://screenshotscdn.firefoxusercontent.com/images/4e8a6020-3254-439b-9a3a-0fd12dd5ed19.png)
