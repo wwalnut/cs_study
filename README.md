@@ -183,7 +183,7 @@ if 的意思就是如果，
 
 一开始给到的例子是一个代数例子
 
-![picture](https://screenshots.firefox.com/eoupmAqIem7qt8kr/docs.python.org)
+![picture](./imgs/snapshot001.png)
 
 就是说，如果 x 小于零那么就将其变成零，如果 x 等于零，那么就是零，如果 x 大于零，那么就输出 More。
 
