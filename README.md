@@ -2,7 +2,7 @@
 ```
 The notes during my study of computer science
 ```
-## 第一课 学习打字
+### 第一课 学习打字
 在学习计算机科学之前，我们需要先学习一些基本的计算机操作，例如操作鼠标、键盘，使用输入法打字等等。
 
 So, 我们先学习打字。
@@ -10,7 +10,7 @@ So, 我们先学习打字。
 打字对于编程是极其重要的，能打好字，就能更加高效得编程。
 
 
-## 第二课 学习pyhton脚本
+### 第二课 学习pyhton脚本
 
 今天，我们来学习怎样创造脚本和使用脚本运行一段python脚本
 
@@ -43,7 +43,7 @@ for root, dirs, files in os.walk("/Users/wangziqiao/workspace/cs_study/test"):
 成功了yeah！！！
 
 
-## 第三课 更系统的list
+### 第三课 更系统的list
 
 今天的任务是把`test目录`下的所有文件更系统化-而不是一行-地列出来，
 
@@ -70,7 +70,7 @@ fromtimestamp(fstat.st_birthtime)
 今天我的任务算是完成了。
 
 
-## 第四课 寻找10000以内所有素数
+### 第四课 寻找10000以内所有素数
 
 今天我们来列出 1-10000 以内的所有质数。
 
@@ -125,7 +125,7 @@ fromtimestamp(fstat.st_birthtime)
 ```
 
 
-## 第五课 正式开始学习Python
+### 第五课 正式开始学习Python
 
 这节课可以说是我第一节正式学习Python的一堂课。
 
@@ -173,7 +173,7 @@ List 和字符串的其中一个区别就是，list 是可以修改的。
 ![the example of basic indentation and programming](https://screenshotscdn.firefoxusercontent.com/images/4e8a6020-3254-439b-9a3a-0fd12dd5ed19.png)
 
 
-## 第六课 更多对于程序流程的控制
+### 第六课 更多对于程序流程的控制
 
 今天我们就来学习Python官网里第四章的内容，
 
@@ -196,5 +196,10 @@ if 的意思就是如果，
 其实他们两个之间有很大的区别，那就是 elif 是留给 if 后面的所有可能性的。
 
 也就是说，if 只是留给开头用的，如过后面还有可能性而且是在一个嵌套内的，就用 elif.
+
+接下来也介绍到了一个非常常用的语句，那就是 for，
+
+意思就是对于。
+
 
 
