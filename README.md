@@ -195,11 +195,61 @@ if 的意思就是如果，
 
 其实他们两个之间有很大的区别，那就是 elif 是留给 if 后面的所有可能性的。
 
-也就是说，if 只是留给开头用的，如过后面还有可能性而且是在一个嵌套内的，就用 elif.
+也就是说，if 只是留给开头用的，如过后面还有可能性而且是在一个循环内的，就用 elif.
 
 接下来也介绍到了一个非常常用的语句，那就是 for，
 
 意思就是对于。
 
+比如说将 word 这个变量中所有值的长度，然后将其发布（例一）。
+
+for 是一个循环，它只有在所有可能性实施后才会停止。
+
+下面讲到了 range， 
+
+range 的意思是范围，我们在 lstdir3.py 和 lstdir4.py 中都在计算范围时用过这个语句。
+
+用 range 语句可以把任何排列性质的数组或者list进行更加系统的范围排序。
+
+下面我们就看到了三个非常重要的语句条款，它们能对编程有更多的细节和范围约束性。
+
+- break能切断循环
+
+- else就是一个循环里除了列出可能性以外的其他可能性
+
+- continue能在循环本应中断的时候让其继续
 
 
+下面介绍到了一个在程序里基本上没有什么用处但是还有用的语句：pass。
+
+pass 的唯一用图就是保留空间。
+
+但是 functions/函数 可比 pass 有用多了。
+
+functions 的作用很大，我也不知道所有的，所以这里只介绍一部分，
+
+首先需要 define/定义 一个变量，然后基本上拿它干什么都行了。
+
+下面介绍到的 keywords argument 基本上就是有三个值的变量，
+
+而且必须得是系统已经起好的名字，
+
+再下面就是可以有无限多值的变量。
+
+下面就是高深莫测的 lambda表达式了，
+
+lambda表达式的用途就是将一个值经过更改返回一个不同的值，例子：
+
+![lambda expression](https://screenshots.firefox.com/ccSoF57awUx1Cc3a/docs.python.org)
+
+下面又是一个几乎没什么用的语句，叫 documentation，
+
+系统都说它没什么用了
+
+![documentation](https://screenshots.firefox.com/Mfwvo75N4li6P2ni/docs.python.org)
+
+最后讲解了，编程的一种写法，叫 PEP8，有兴趣的请点[这里](https://www.python.org/dev/peps/pep-0008/)
+
+啊啊啊啊啊！！！
+
+终于写完了。

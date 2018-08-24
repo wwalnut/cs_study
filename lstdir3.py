@@ -3,7 +3,7 @@
 import time
 
 st = time.time()
-max = 10000000
+max = 10000
 min = 1
 print("Prime numbers between %s and %s are: ", min, max)
 
