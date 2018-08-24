@@ -240,13 +240,13 @@ functions 的作用很大，我也不知道所有的，所以这里只介绍一�
 
 lambda表达式的用途就是将一个值经过更改返回一个不同的值，例子：
 
-![lambda expression](https://screenshots.firefox.com/ccSoF57awUx1Cc3a/docs.python.org)
+![lambda expression](./img/45771f78-a508-41b3-a74d-908ed7af4ed0.png)
 
 下面又是一个几乎没什么用的语句，叫 documentation，
 
 系统都说它没什么用了
 
-![documentation](https://screenshots.firefox.com/Mfwvo75N4li6P2ni/docs.python.org)
+![documentation](./img/does_nothing.png)
 
 最后讲解了，编程的一种写法，叫 PEP8，有兴趣的请点[这里](https://www.python.org/dev/peps/pep-0008/)
 
